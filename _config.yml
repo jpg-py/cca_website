@@ -12,8 +12,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-theme: jekyll-agency
-
+remote_theme: raviriley/agency-jekyll-theme
 #domain: cca.github.io
 url    : "jpg-py.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/cca_website" # the subpath of your site, e.g. /blog
