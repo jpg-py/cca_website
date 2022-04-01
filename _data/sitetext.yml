@@ -1,0 +1,414 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: 
+    text: EDUCATION BEYOND BOOKS
+    button: Know More
+    buttonlink: "#services"
+
+  services:
+    title: "Services"
+    text: "Services We Provide"
+    section: services
+    list:
+      - title: "School Coaching"
+        desc: "Pre-Primary, Primary, Secondary till grade 12th Boards - IB, IGCSE, ICSE, CBSE, SSC ALL SUBJECTS"
+        icon: fas fa-school
+        
+      - title: "College Coaching"
+        desc: "Grade 11th to 15th Science and Commerce"
+        icon: fas fa-graduation-cap  
+        
+      - title: "JEE NEET CET"
+        desc: "Physics Chemistry and Mathematics"
+        icon: fas fa-vial
+      
+      - title: "Engineering Coaching"
+        desc: "Physics, Chemistry, Math, Mechanics, All Computer Languages"
+        icon: fas fa-atom
+              
+      - title: "IT-Courses"
+        desc: "Python, C, C++, JAVA, Web Development, Data Science, AI-ML, Computer Vision, AWS, SQL "
+        icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
+      
+      
+        
+      
+        
+      
+      
+      - title: "Art Galore"
+        desc: "Hindi Marathi Western vocal Music, Instruments - Guitar, Piano, Keyboard, Tabla, Ukulele and Saxophone, Drawing - Elementary and Intermediate, Craft, Caligraphy, Handwriting "
+        icon: fas fa-palette
+        
+      - title: "Language Hub"
+        desc: "Public Speaking English, Creative writing English, Debatting English, Foregin Languages - French, German, Spanish. Indian Languages - Sanskrit, Hindi, Marathi, Gujrati."
+        icon: fas fa-language
+      
+      - title: "Speed Math"
+        desc: "Abacus and Vedic math"
+        icon: fas fa-calculator
+        
+      - title: "Learning Disability"
+        desc: "Majorly children from NIOS, Special needs, Learning disability and Homeschoolers. Subjects - Math, Science, English, Computer Science, Painting, Business Studies, Economics etc."
+        icon: fas fa-child
+        
+      - title: "IT Courses For Kids"
+        desc: "Scratch, App Inventor, Applab, Python, HTML, CSS, JAVASCRIPT "
+        icon: fas fa-microchip 
+        
+      - title: "Project Work"
+        desc: "All types of IT project."
+        icon: fas fa-code-branch    
+      
+        
+
+  portfolio:
+    title: "Project Portfolio"
+    text: "Have a look at projects done by our IT team"
+    section: portfolio
+    closebutton: "Close Project"
+
+  timeline:
+    title: "HEAR FROM PARENTS"
+    text: "Testimonies from all around the world"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      
+      - title: "Melbourne"
+        year: "Ms. Vinutha Manjunath"
+        desc: "My overall experience to date has been amazing and CCA is providing great platform for kids education across the globe. Your academy has provided my kid with number of opportuities to grow and explore her skills. Greatly appreciate the techers effort and enthusiasm in motivating the students to learn with fun over the online learning."
+        image: assets/img/team/vinutha.jpeg
+        alt:
+          
+      - title: "Melbourne"
+        year: "Ms. Deepika Sooji"
+        desc: "CCA Academy has maintained the standard of teaching though my son Aarush is full time on distance learning, considering his age being 7. I was doubtful if it will work but CCA has high standard teaching staff who provide personal attention to kids and build intrest and develop skills at very young age. Aarush loves Maths coaching and I am highly ipressed with academy."
+        image: assets/img/team/deepika.jpeg
+        alt:
+      
+      - title: "Washigton DC"
+        year: "Ms. Rajinder"
+        desc: "Great institute with amazing teachers. Very happy with CCA sevices. Would highly recommend for anyone looking to find tution services for their kids."
+        image: assets/img/team/rajinder.jpeg
+        alt: image alt text
+      
+      - title: "Mumbai"
+        year: "Ms. Tiksha Pimple"
+        desc: "Coaching is really nice, They give personal attention to each student. Management team is also very supportive."
+        image: assets/img/team/tiksha.jpeg
+        alt:
+        
+        
+      - title: "Melbourne"
+        year: "Ms. Sumathi"
+        desc: "I am really impressed with the progress of my daughter. Ruchika is making with maths. We tried online classes before however my child did not connect with the teacher as the teacher was always late to class and used to shout at mistakes. Ruchika respects Chitra a lot and is showing immense intrest in her teaching. Her confidence is increasing after every class and this is evident from her school performance as well."
+        image: assets/img/team/sumathi.jpeg
+        alt:
+        
+      - title: "Hyderabad"
+        year: "Ms. Praveena Shetty"
+        desc: "It's amazing to associate and work with CCA. Everything at one place with a professional team, It's been so great working with you this year. I look forward to many more years to come!."
+        image: assets/img/team/praveena.jpeg
+        alt:
+        
+      - title: "Texas"
+        year: "Ms. Gayatri"
+        desc: "This is a place where they truly care about your child's success.
+My daughter has been with CCA since the last summer and we have seen improvement.
+They also don’t make you sign up for a long contract like other places do. If you need to change days, just call or message and Anisha take care of it, very flexible just wonderful!
+I highly recommend CCA tutors.they can do all subjects, meet any number of days and the prices are very affordable."
+        image: assets/img/team/def_g.jpg
+        alt:
+        
+      - title: "Singapore"
+        year: "Ms. Akila"
+        desc: "I have taken sevices from CCA four times for various courses. CCA connected me with knowlegable and professional educators. I highly recommend CCA."
+        image: assets/img/team/def_g.jpg
+        alt:
+        
+      
+        
+        # you can enforce the alignment
+    end: "Be Part <br> of Our <br> Story!"
+
+  about:
+    title: "About Us"
+    text: ""
+    body: "CCA was founded in the year 2017, by our Founding Partners **Ms. Anisha Pimpale** & **Ms. Shubhangi Prachand**. Since then we became a prominent educational platform and we have grown and expanded in offline / online coaching worldwide. <br> Our Co-Partners **Ms. Aavni Shah** & **Ms. Rohini Vavale** have been our support pillar in our establishment.<br> **'Education beyond books'**, with this moto  we have grown year on year. <br> Our team has grown over the years and our strength reaching great heights, we have introduced new and bright members in our Core Team. With the begining of the year 2022, our Founder Ms. Anisha Pimpale and team are excited to welcome our new Partner, **Mr.Anil Pimpale** to join this venture and help the team grow and excel.<br>We teach a wide range of subjects and provide an online platform for students across the globe. Education from Kindergarten to high school and beyond, we teach core subjects like English,  Mathematics, Science, Foreign Languages, Coding languages and others including Elemetary, Intermediate, Technical drawing, Music etc.<br>Our team of teachers & trainers have brought out the best in our students. **'We believe Education helps in growth & overall development.'**<br>Our team has grown from 15 Teachers to 56 and still growing year on year, our bond between Teachers and Parents have given us bright and outstanding achievers in every field.<br> Educational credentials of our teachers / trainers / experts are,<br>IIT, Doctors, B.E. in Computers, EnTC, B.E.  Electronics, B.E. Mechanical, MBA, BTech, MSc. M.Com, M.Ed., BSc. B.Com, B.Ed.<br> Pre-Primary experts, Like ECCA certified teachers.<br> All teachers / trainers /Experts  have more than 8 years of experience & maximum 25 years. "
+
+    section: about
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "IoTronixs"
+        url: 
+        logo: assets/img/clients/iotronixs.jpg
+
+  team:
+    title: "HALL OF FAME"
+    text: "Some of our best performing academic students"
+    subtext: 
+    section: team
+    people:
+    
+      - name: "Aditya Prachand"
+        role: "Scored 98.8% SSC Board"
+        image: assets/img/hall_of_fame/b.jpeg
+      
+      - name: "Ishan Tanawade"
+        role: "Scored 98.6% SSC Board"
+        image: assets/img/hall_of_fame/ishan.jpeg
+      
+      - name: "Jay Dalvi"
+        role: "Scored 94.4% SSC Board"
+        image: assets/img/hall_of_fame/c.jpeg
+      
+      - name: "Yash Suvarna"
+        role: "Scored 86.4% SSC Board"
+        image: assets/img/hall_of_fame/yash.jpg
+      
+      
+      - name: "Aaryan Oak"
+        role: "Scored 85% SSC Board"
+        image: assets/img/hall_of_fame/aaryan.jpeg
+      
+      - name: "Aarya Patil"
+        role: "Scored 85% SSC Board"
+        image: assets/img/hall_of_fame/aarya.jpg
+        
+      - name: "Arjun Pimpale"
+        role: "Scored 85% SSC Board"
+        image: assets/img/hall_of_fame/arjun.jpeg
+      
+      - name: "Krish Tawde"
+        role: "Scored 80% SSC Board"
+        image: assets/img/hall_of_fame/nopic_b.jpeg
+      
+      - name: "Siddhant Koli"
+        role: "Scored 80% SSC Board"
+        image: assets/img/hall_of_fame/nopic_b.jpeg
+            
+      - name: "Trisha Patel"
+        role: "Scored 70.6% SSC Board"
+        image: assets/img/hall_of_fame/trisha.jpg
+        
+      - name: "Hrithik Kaneria"
+        role: "Scored 91% ICSE Board"
+        image: assets/img/hall_of_fame/ritik.jpg
+      
+      
+      - name: "Krutika Surve"
+        role: "Scored 87% ICSE Board"
+        image: assets/img/hall_of_fame/krutika.jpg   
+        
+      - name: "Shriyam Mishra"
+        role: "Scored 83% ICSE Board"
+        image: assets/img/hall_of_fame/a.jpeg
+        
+      
+     
+           
+
+  contact:
+    title: "Contact Us"
+    text: "For more information call on +91 9967588104"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://m.facebook.com/pages/category/Education/CCA-Online-Coaching-Academy-106536584509743/
+        icon: "fab fa-facebook-f"
+      - url: https://www.instagram.com/creatorscoachingacademy/
+        icon: "fab fa-instagram"
+      - url: https://www.linkedin.com/company/creators-coaching-academy
+        icon: "fab fa-linkedin-in"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# -------
+es: &DEFAULT_ES
+  header:
+    title: ¡Bienvenido a nuestro Estudio!
+    text: Es un placer conocerle
+    button: Ver más
+    buttonlink: "#servicios"
+
+  services:
+    title: "Servicios"
+    text: "Lorem ipsum"
+    section: servicios
+    list:
+      - title: "Comercio Electrónico"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Diseño Responsivo"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        icon: fab fa-markdown
+
+  portfolio:
+    title: "Portafolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portafolio
+    closebutton: "Cerrar Proyecto"
+
+  timeline:
+    title: "Cronología"
+    text: "Lorem ipsum timeline"
+    section: cronologia
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Nuestro Humilde Comienzo"
+        year: "2009-2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Una Agencia nace"
+        year: "March 2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "La plantilla Jekyll es creada"
+        year: "2019"
+        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Título"
+        year: "2009-2011"
+        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+        image: assets/img/timeline/4.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
+    end: "¡Se parte <br> de Nuestra <br> Historia!"
+
+  about:
+    title: "Sobre nosotros"
+    text: "nuestra historia"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: nosotros
+
+  clients:
+    section: clientes
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "NUESTRO INCREÍBLE EQUIPO"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: equipo
+    people:
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Larry Parker"
+        role: "Lead Marketer"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+  contact:
+    title: "Contáctenos"
+    text: "Lorem ipsum or call 123456789"
+    section: contacto
+    name: "Nombre*"
+    name-validation: "Por favor ingrese su nombre."
+    email: "Correo Electrónico*"
+    email-validation: "Por favor ingrese su correo electrónico."
+    phone: "Número Telefónico*"
+    phone-validation: "Por favor ingrese su número telefónico."
+    message: "Mensaje*"
+    message-validation: "Por favor escriba un mensaje."
+    subject: "Envío del formulario de contacto"
+    submit: "Enviar Mensaje"
+
+  footer:
+    legal: "Política de Privacidad"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES
