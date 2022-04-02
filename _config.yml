@@ -19,7 +19,7 @@ baseurl: "/cca_website" # the subpath of your site, e.g. /blog
 
 title      : Creators Coaching Academy
 email      : enquiry@cca-edu.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "A perfect platform for your child to grow and gain practicle knowledge of the subject they are learning."
 author     : Jayesh Gautam
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
