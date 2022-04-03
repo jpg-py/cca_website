@@ -52,7 +52,7 @@ en: &DEFAULT_EN
         icon: fas fa-palette
         
       - title: "Language Hub"
-        desc: "Public Speaking English, Creative writing English, Debatting English, Foregin Languages - French, German, Spanish. Indian Languages - Sanskrit, Hindi, Marathi, Gujrati."
+        desc: "Public Speaking English, Creative writing English, Debating English, Foregin Languages - French, German, Spanish. Indian Languages - Sanskrit, Hindi, Marathi, Gujrati."
         icon: fas fa-language
       
       - title: "Speed Math"
@@ -89,13 +89,13 @@ en: &DEFAULT_EN
       
       - title: "Melbourne"
         year: "Ms. Vinutha Manjunath"
-        desc: "My overall experience to date has been amazing and CCA is providing great platform for kids education across the globe. Your academy has provided my kid with number of opportuities to grow and explore her skills. Greatly appreciate the techers effort and enthusiasm in motivating the students to learn with fun over the online learning."
+        desc: "My overall experience to date has been amazing and CCA is providing great platform for kids education across the globe. Your academy has provided my kid with number of opportuities to grow and explore her skills. Greatly appreciate the teachers effort and enthusiasm in motivating the students to learn with fun over the online learning."
         image: assets/img/team/vinutha.jpeg
         alt:
           
       - title: "Melbourne"
         year: "Ms. Deepika Sooji"
-        desc: "CCA Academy has maintained the standard of teaching though my son Aarush is full time on distance learning, considering his age being 7. I was doubtful if it will work but CCA has high standard teaching staff who provide personal attention to kids and build intrest and develop skills at very young age. Aarush loves Maths coaching and I am highly ipressed with academy."
+        desc: "CCA Academy has maintained the standard of teaching though my son Aarush is full time on distance learning, considering his age being 7. I was doubtful if it will work but CCA has high standard teaching staff who provide personal attention to kids and build intrest and develop skills at very young age. Aarush loves Maths coaching and I am highly impressed with academy."
         image: assets/img/team/deepika.jpeg
         alt:
       
@@ -110,7 +110,12 @@ en: &DEFAULT_EN
         desc: "Coaching is really nice, They give personal attention to each student. Management team is also very supportive."
         image: assets/img/team/tiksha.jpeg
         alt:
-        
+      
+      - title: "Utah"
+        year: "Ms. Mona Shroff"
+        desc: "We had an amazing experience with CCA. During the peak pandemic time my daughter received appropriate help as the schools were having online lessons. My daughter received one on one coaching with the flexibility of hours from amazing teachers. Lara enjoys her Maths teachers and enjoys the interaction with them as they have helped her several times instantly with a short notice. CCA is a highly recommended institute."
+        image: assets/img/team/mona.jpg
+        alt: 
         
       - title: "Melbourne"
         year: "Ms. Rekha"
