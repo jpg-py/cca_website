@@ -74,7 +74,7 @@ en: &DEFAULT_EN
         
 
   portfolio:
-    title: "Project Portfolio"
+    title: "CCA IT SOLUTION"
     text: "Have a look at projects done by our IT team"
     section: portfolio
     closebutton: "Close Project"
