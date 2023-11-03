@@ -11,7 +11,7 @@ background: grey
 	<li>
 		<a href="">
 			<figure>
-				<img src='https://images.unsplash.com/photo-1631451095765-2c91616fc9e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDA0OTI3Nw&ixlib=rb-1.2.1&q=80&w=400' alt='Volcano and lava field against a stormy sky'>
+				<img src="assets/img/hall_of_fame/1.jpeg">
 				<!--<figcaption>Mountains and volcanos</figcaption>-->
 			</figure>
 		</a>
@@ -19,7 +19,7 @@ background: grey
 	<li>
 		<a href="">
 			<figure>
-				<img src='https://images.unsplash.com/photo-1633621533308-8760aefb5521?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDA1MjAyMQ&ixlib=rb-1.2.1&q=80&w=400' alt='Guy on a bike ok a wooden bridge with a forest backdrop'>
+				<img src="assets/img/hall_of_fame/2.jpeg">
 				<!--<figcaption>Mountains and volcanos</figcaption>-->
 			</figure>
 		</a>
@@ -27,7 +27,7 @@ background: grey
 	<li>
 		<a href="">
 			<figure>
-				<img src='https://images.unsplash.com/photo-1633635146842-12d386e64058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDA1MjA5OA&ixlib=rb-1.2.1&q=80&w=400' alt='Person standing alone in a misty forest'>
+				<img src="assets/img/hall_of_fame/3.jpeg">
 				<!--<figcaption>Mountains and volcanos</figcaption>-->
 			</figure>
 		</a>
@@ -35,7 +35,7 @@ background: grey
 	<li>
 		<a href="">
 			<figure>
-				<img src='https://images.unsplash.com/photo-1568444438385-ece31a33ce78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDA1MjA5OA&ixlib=rb-1.2.1&q=80&w=400' alt='Person hiking on a trail through mountains while taking a photo with phone'>
+				<img src="assets/img/hall_of_fame/4.jpeg">
 				<!--<figcaption>Mountains and volcanos</figcaption>-->
 			</figure>
 		</a>
@@ -43,7 +43,7 @@ background: grey
 	<li>
 		<a href="">
 			<figure>
-				<img src='https://images.unsplash.com/photo-1633515257379-5fda985bd57a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDA1MjA5OA&ixlib=rb-1.2.1&q=80&w=400' alt='Street scene with person walking and others on motorbikes, all wearing masks'>
+				<img src="assets/img/hall_of_fame/5.jpeg">
 				<!--<figcaption>Mountains and volcanos</figcaption>-->
 			</figure>
 		</a>
@@ -51,7 +51,7 @@ background: grey
 	<li>
 		<a href="">
 			<figure>
-				<img src='https://images.unsplash.com/photo-1633209931146-260ce0d16e22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzNDA1MjA5OA&ixlib=rb-1.2.1&q=80&w=400' alt='Fashionable-looking girl with blond hair and pink sunglasses'>
+				<img src="assets/img/hall_of_fame/6.jpeg">
 				<!--<figcaption>Mountains and volcanos</figcaption>-->
 			</figure>
 		</a>
