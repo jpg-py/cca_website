@@ -20,11 +20,12 @@ en: &DEFAULT_EN
 
     - title: "Hall of Fame"
       section: team
-    - title: "Contact"
-      section: contact
+    
     - title: "Gallery"
       section: gallery
 
+    - title: "Contact"
+      section: contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:
