@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 #domain: cca.github.io
 url    : "jpg-py.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/cca_website" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Creators Coaching Academy
 email      : enquiry@cca-edu.com #this is also the email contact forms will go to
