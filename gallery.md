@@ -5,9 +5,82 @@ background: grey
 ---
 <div class="col-lg-12 text-center">
 	  <h2 class="section-heading text-uppercase">Gallery</h2>
-	  <h3 class="section-subheading text-muted">Drawing Competetion 2020 Sponsored by <b>DOMS</b> in Association with CREATORS COACHING ACADEMY</h3>
+	  <h3 class="section-subheading text-muted">Drawing competition 2020 Sponsored by <b>DOMS</b> in Association with CREATORS COACHING ACADEMY</h3>
 	</div>
 <ul style="list-style:none; margin: 0; padding: 0; display: grid; gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr)); max-width: 100%; width: 70rem;">
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/00.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/01.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/02.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/03.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/04.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/05.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/06.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/07.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/08.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	
 	<li>
 		<a href="">
 			<figure>
