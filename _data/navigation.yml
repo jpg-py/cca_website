@@ -22,7 +22,7 @@ en: &DEFAULT_EN
       section: team
     
     - title: "Gallery"
-      section: gallery
+      url: "gallery"
 
     - title: "Contact"
       section: contact
