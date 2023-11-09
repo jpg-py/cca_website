@@ -23,23 +23,23 @@ en: &DEFAULT_EN
     list:
       - title: "School Coaching"
         desc: "Pre-Primary, Primary, Secondary till grade 12th Boards - IB, IGCSE, ICSE, CBSE, SSC ALL SUBJECTS"
-        icon: fas fa-school
+        icon: assets/img/100.jpg
         
       - title: "College Coaching"
         desc: "Grade 11th to 15th Science and Commerce"
-        icon: fas fa-graduation-cap  
+        icon: assets/img/200.jpg
         
       - title: "JEE NEET CET"
         desc: "Physics Chemistry and Mathematics"
-        icon: fas fa-vial
+        icon: assets/img/300.jpg
       
       - title: "Engineering Coaching"
         desc: "Physics, Chemistry, Math, Mechanics, All Computer Languages"
-        icon: fas fa-atom
+        icon: assets/img/400.jpg
               
       - title: "IT-Courses"
         desc: "Python, C, C++, JAVA, Web Development, Data Science, AI-ML, Computer Vision, AWS, SQL "
-        icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
+        icon: assets/img/500.jpg
       
       
         
@@ -49,27 +49,27 @@ en: &DEFAULT_EN
       
       - title: "Art Galore"
         desc: "Hindi Marathi Western vocal Music, Instruments - Guitar, Piano, Keyboard, Tabla, Ukulele and Saxophone, Drawing - Elementary and Intermediate, Craft, Caligraphy, Handwriting "
-        icon: fas fa-palette
+        icon: assets/img/600.jpg
         
       - title: "Language Hub"
         desc: "Public Speaking English, Creative writing English, Debating English, Foregin Languages - French, German, Spanish. Indian Languages - Sanskrit, Hindi, Marathi, Gujrati."
-        icon: fas fa-language
+        icon: assets/img/700.jpg
       
       - title: "Speed Math"
         desc: "Abacus and Vedic math"
-        icon: fas fa-calculator
+        icon: assets/img/800.jpg
         
       - title: "Learning Disability"
         desc: "Majorly children from NIOS, Special needs, Learning disability and Homeschoolers. Subjects - Math, Science, English, Computer Science, Painting, Business Studies, Economics etc."
-        icon: fas fa-child
+        icon: assets/img/900.jpg
         
       - title: "IT Courses For Kids"
         desc: "Scratch, App Inventor, Applab, Python, HTML, CSS, JAVASCRIPT "
-        icon: fas fa-microchip 
+        icon: assets/img/1000.jpg
         
       - title: "Project Work"
         desc: "All types of IT project."
-        icon: fas fa-code-branch    
+        icon: assets/img/1100.jpg
       
         
 
