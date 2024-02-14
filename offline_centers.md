@@ -39,7 +39,7 @@ body {
     - adjust "width" to fit the content accordingly 
 */
 .switches-container {
-    width: 36rem;
+    width: 56rem;
     position: relative;
     display: flex;
     padding: 0;
