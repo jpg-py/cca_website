@@ -152,7 +152,7 @@ background: grey
 <!--this is team section-->
 <div id="team">
 <div class="container">
-	<div class="row vh-100">
+	<div class="row">
 		<div class="col-sm-6 col-lg-3 my-auto">
 			<div class="box shadow-sm p-4">
 				<div class="image-wrapper mb-3">
