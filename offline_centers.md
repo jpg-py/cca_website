@@ -6,17 +6,17 @@ background: grey
 
 <div class="container">
   <div class="switches-container">
-    <input type="radio" id="switchGallery" name="switchPlan" value="Gallery" checked="checked" />
-    <input type="radio" id="switchTeam" name="switchPlan" value="Team" />
-    <input type="radio" id="switchThird" name="switchPlan" value="ThirdOption" />
-    <label for="switchGallery">Gallery</label>
-    <label for="switchTeam">Team</label>
-    <label for="switchThird">ThirdOption</label>
+    <input type="radio" id="switchOne" name="switchPlan" value="VAZIRA" checked="checked" />
+    <input type="radio" id="switchTwo" name="switchPlan" value="NEW ASHOK NAGAR" />
+    <input type="radio" id="switchThird" name="switchPlan" value="GORAI 2017-MARCH 2020" />
+    <label for="switchOne">VAZIRA</label>
+    <label for="switchTwo">NEW ASHOK NAGAR</label>
+    <label for="switchThird">GORAI 2017-MARCH 2020</label>
     <div class="switch-wrapper">
       <div class="switch">
-        <div>Gallery</div>
-        <div>Team</div>
-        <div>ThirdOption</div>
+        <div>VAZIRA</div>
+        <div>NEW ASHOK NAGAR</div>
+        <div>GORAI 2017-MARCH 2020</div>
       </div>
     </div>
   </div>
