@@ -24,10 +24,12 @@ en: &DEFAULT_EN
     - title: "Gallery"
       url: "gallery"
 
-    - title: "Contact"
-      section: contact
     - title: "Offline"
       url: "offline_centers"
+
+    - title: "Contact"
+      section: contact
+    
 
 en-US:
   <<: *DEFAULT_EN
