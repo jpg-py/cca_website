@@ -160,7 +160,7 @@ background: grey
 				</div>
 				<div class="box-desc">
 					<h5>Anisha Pimpale</h5>
-					<p>Founding & Managing Partner CCA<br>Since 2017 till present</p>
+					<p>Founding & Managing Partner CCA<br>March 2017 till present</p>
 				</div>
 				<ul class="social">
 					<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -176,7 +176,7 @@ background: grey
 				</div>
 				<div class="box-desc">
 					<h5>Shubhangi Prachand</h5>
-					<p>Founding & Ex Partner<br>Since 2017-2021</p>
+					<p>Founding & Ex Partner<br>March 2017-2021</p>
 				</div>
 				<ul class="social">
 					<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -192,7 +192,7 @@ background: grey
 				</div>
 				<div class="box-desc">
 					<h5>Avni Shah</h5>
-					<p>Ex Partner<br>2018-2021</p>
+					<p>Ex Partner<br>November 2017-2021</p>
 				</div>
 				<ul class="social">
 					<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
