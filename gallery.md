@@ -160,7 +160,23 @@ background: grey
 				</div>
 				<div class="box-desc">
 					<h5>Anisha Pimpale</h5>
-					<p>Founding & Managing Partner CCA<br>March 2017 till present</p>
+					<p>Founder & Managing Partner CCA<br>March 2017 till present</p>
+				</div>
+				<ul class="social">
+					<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+					<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+					<li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="col-sm-6 col-lg-3 my-auto">
+			<div class="box shadow-sm p-4">
+				<div class="image-wrapper mb-3">
+					<img class="img-fluid" src="assets/img/partners/preeti_oak.jpeg" alt="..." />
+				</div>
+				<div class="box-desc">
+					<h5>Preeti Oak</h5>
+					<p>Offline Partner<br>2023 till present</p>
 				</div>
 				<ul class="social">
 					<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -176,7 +192,7 @@ background: grey
 				</div>
 				<div class="box-desc">
 					<h5>Shubhangi Prachand</h5>
-					<p>Founding & Ex Partner<br>March 2017-2021</p>
+					<p>Founder & Ex Partner<br>March 2017-2021</p>
 				</div>
 				<ul class="social">
 					<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -193,22 +209,6 @@ background: grey
 				<div class="box-desc">
 					<h5>Avni Shah</h5>
 					<p>Ex Partner<br>November 2017-2021</p>
-				</div>
-				<ul class="social">
-					<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-					<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-					<li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="col-sm-6 col-lg-3 my-auto">
-			<div class="box shadow-sm p-4">
-				<div class="image-wrapper mb-3">
-					<img class="img-fluid" src="assets/img/partners/preeti_oak.jpeg" alt="..." />
-				</div>
-				<div class="box-desc">
-					<h5>Preeti Oak</h5>
-					<p>Offline Partner<br>Since 2023</p>
 				</div>
 				<ul class="social">
 					<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
