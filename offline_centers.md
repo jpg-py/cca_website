@@ -30,6 +30,15 @@ background: grey
 	<li>
 		<a href="">
 			<figure>
+				<img src="assets/img/offline/vazira/stu.jpg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	
+	<li>
+		<a href="">
+			<figure>
 				<img src="assets/img/offline/vazira/0.jpeg">
 				<!--<figcaption>Mountains and volcanos</figcaption>-->
 			</figure>
