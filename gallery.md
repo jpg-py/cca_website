@@ -29,6 +29,46 @@ background: grey
 	<li>
 		<a href="">
 			<figure>
+				<img src="assets/img/hall_of_fame/23.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/24.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/25.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/26.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
+				<img src="assets/img/hall_of_fame/00.jpeg">
+				<!--<figcaption>Mountains and volcanos</figcaption>-->
+			</figure>
+		</a>
+	</li>
+	<li>
+		<a href="">
+			<figure>
 				<img src="assets/img/hall_of_fame/00.jpeg">
 				<!--<figcaption>Mountains and volcanos</figcaption>-->
 			</figure>
