@@ -172,6 +172,14 @@ I highly recommend CCA tutors.they can do all subjects, meet any number of days 
     section: team
     people:
     
+      - name: "Aaryamaan Saini"
+        role: "Scored 55/56 7/7 in PCM IB Board"
+        image: assets/img/hall_of_fame/aaryamaan.jpeg
+    
+      - name: "Shourya Garag"
+        role: "Scored 54/56 7/7 in PCM IB Board"
+        image: assets/img/hall_of_fame/shourya.jpeg
+
       - name: "Aditya Prachand"
         role: "Scored 98.8% SSC Board"
         image: assets/img/hall_of_fame/b.jpeg
