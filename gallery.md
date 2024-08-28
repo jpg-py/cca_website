@@ -69,14 +69,6 @@ background: grey
 	<li>
 		<a href="">
 			<figure>
-				<img src="assets/img/hall_of_fame/00.jpeg">
-				<!--<figcaption>Mountains and volcanos</figcaption>-->
-			</figure>
-		</a>
-	</li>
-	<li>
-		<a href="">
-			<figure>
 				<img src="assets/img/hall_of_fame/01.jpeg">
 				<!--<figcaption>Mountains and volcanos</figcaption>-->
 			</figure>
